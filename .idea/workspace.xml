@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b95d8dda-bfc4-45c3-97b3-c8a32904f547" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scikitLearnStart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scikitLearnStart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/plane.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradientBoosting.py" beforeDir="false" afterPath="$PROJECT_DIR$/GradientBoosting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sandbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/sandbox.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Sergey/PycharmProjects/scikitLearnStart",
+    "last_opened_file_path": "C:/Users/Sergey/PycharmProjects/scikitLearnStart/data",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,6 +59,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergey\PycharmProjects\scikitLearnStart\data" />
       <recent name="C:\Users\Sergey\PycharmProjects\scikitLearnStart" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -92,12 +89,26 @@
       <workItem from="1737016269465" duration="26180000" />
       <workItem from="1737352056042" duration="13789000" />
       <workItem from="1737634112248" duration="65000" />
-      <workItem from="1737634289882" duration="3247000" />
+      <workItem from="1737634289882" duration="8911000" />
+      <workItem from="1737719730559" duration="265000" />
+      <workItem from="1737720007355" duration="7911000" />
+      <workItem from="1737876631737" duration="5102000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -110,7 +121,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/scikitLearnStart$generateGoForAWalkDataset.coverage" NAME="generateGoForAWalkDataset Coverage Results" MODIFIED="1736491573047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scikitLearnStart$SalesForecasting.coverage" NAME="SalesForecasting Coverage Results" MODIFIED="1737637537520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/scikitLearnStart$sandbox.coverage" NAME="sandbox Coverage Results" MODIFIED="1737214420862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scikitLearnStart$sandbox.coverage" NAME="sandbox Coverage Results" MODIFIED="1737878000190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scikitLearnStart$rfcWithCustomDataSet.coverage" NAME="rfcWithCustomDataSet Coverage Results" MODIFIED="1736488685969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scikitLearnStart$generateDataSet.coverage" NAME="generateDataSet Coverage Results" MODIFIED="1736432091764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/scikitLearnStart$talons.coverage" NAME="talons Coverage Results" MODIFIED="1736593409106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
